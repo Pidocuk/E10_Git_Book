@@ -1,0 +1,9 @@
+.idea
+*.iml
+when you put *, you ignore all files with that extention (iml) in this case
+
+out  <- this is also a file we want to ignore
+out
+
+*.xml
+
